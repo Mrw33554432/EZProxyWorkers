@@ -1,4 +1,4 @@
-# EZProxy
+# EZProxyWorkers
 A Proxy for OpenAI API on Cloudflare Workers
 Copy The code and implement the API_KEYs
 ```
